@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Noah. I'm from Toronto, Canada.
+
+    📚 Studying (BSc) Computer Science at Wilfrid Laurier University
+    ❗ Looking for Co-op positions
+
+BIO:
+
+    😄 Pronouns: (He/Him)
+    📔 What I use: 🐍python, C, and ☕java
+    💬 Ping me about projects, gaming, or for any additonal info
+   📫 Reach me: [Linkedin](https://www.linkedin.com/in/noah-fedosoff-12565023a/)
