@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Noah. I'm from Toronto, Canada.
 
     📚 Studying (BSc) Computer Science at Wilfrid Laurier University
-    🔭 I’m currently working...
+    🔭 I’m currently learning...
 
 BIO:
 
