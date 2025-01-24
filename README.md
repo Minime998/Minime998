@@ -26,3 +26,5 @@ BIO:
     📔 What I use: 🐍python, C, and ☕java
     💬 Ping me about projects, gaming, or for any additonal info
    📫 Reach me: [Linkedin](https://www.linkedin.com/in/noah-fedosoff-12565023a/)
+
+   <a href="https://app.daily.dev/Minime998"><img src="./devcard.png" width="356" alt="Noah's Dev Card"/></a>
