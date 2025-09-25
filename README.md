@@ -17,12 +17,13 @@ Here are some ideas to get you started:
 
 My name is Noah. I'm from Toronto, Canada.
 
-    📚 (BSc) Computer Science at Wilfrid Laurier University
-    🔭 I’m currently working with Rust and Wasm
+    📚 (HBSc) Honours Computer Science at Wilfrid Laurier University
+    🏢 Working as a Junior Software Dev.
+    🔭 I’m currently working with Java and Spring
 
 BIO:
 
     😄 Pronouns: (He/Him)
-    📔 What I use: 🐍python, C, and ☕java
+    📔 What I use: 🐍python, Rust, and ☕java
     💬 Ping me about projects, gaming, or for any additonal info
    📫 Reach me: [Linkedin](https://www.linkedin.com/in/noah-fedosoff-12565023a/)
