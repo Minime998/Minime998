@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My name is Noah. I'm from Toronto, Canada.
-
-    📚 (HBSc) Honours Computer Science at Wilfrid Laurier University
-    🏢 Working as a Junior Software Dev.
-    🔭 I’m currently working with Java and Spring
-
 BIO:
 
     😄 Pronouns: (He/Him)
+    📚 (HBSc) Honours Computer Science at Wilfrid Laurier University
+    🏢 Working as a Software Dev.
     📔 What I use: 🐍python, Rust, and ☕java
     💬 Ping me about projects, gaming, or for any additonal info
    📫 Reach me: [Linkedin](https://www.linkedin.com/in/noah-fedosoff-12565023a/)
