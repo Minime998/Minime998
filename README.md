@@ -21,4 +21,3 @@ BIO:
     🏢 Working as a Software Dev.
     📔 What I use: 🐍python, Rust, and ☕java
     💬 Ping me about projects, gaming, or for any additonal info
-   📫 Reach me: [Linkedin](https://www.linkedin.com/in/noah-fedosoff-12565023a/)
